@@ -3,14 +3,7 @@ import streamlit as st
 import pandas as pd
 import xgboost as xgb
 import numpy as np
-#import os
 
-#path = "/Users/shrut/PycharmProjects/Thyroid Detection"
-
-#start = "/Users/shrut/"
-
-#relative_path = os.path.relpath(path, start)
- 
 
 
 st.header("Thyroid Prediction App")
